@@ -2,8 +2,14 @@
 
 ## Resumen 1:
 # Why Python Tranining is totally worth it?
-Python cada vez evoluciona mucho mas de una forma muy rapido y por eso uno debe de tomarse el tiempo de aprender. Porque en un futuro python y en general la programación va a ser crucial. Aparte de crucial python es una plataforma muy sencilla de descargar e incluso de aprender a usar. Python es muy recomendado he incluso muchos aseguran no tener problemas al utilizarlo y al aprender a usarlo. Asi que porque no empezar? La programción es el futuro y que mejor que la forma de aprender sea asi de sencilla rapida y fácil.
+Python cada vez evoluciona mucho mas de una forma muy rapido y por eso uno debe de tomarse el tiempo de aprender. Porque en un futuro python y en general la 
+programación va a ser crucial. Aparte de crucial python es una plataforma muy sencilla de descargar e incluso de aprender a usar. Python es muy recomendado he 
+incluso muchos aseguran no tener problemas al utilizarlo y al aprender a usarlo. Asi que porque no empezar? La programción es el futuro y que mejor que la forma de 
+aprender sea asi de sencilla rapida y fácil.
 
 ## Resumen 2:
 # Programing language of the year?
-Este articulo nos da los numeros de como en los ultimos años el languaje de python a alcanzado los primeros tres lugares de cualquiera de los tipos de languajes que hay. Python fue creado en 1989 y en Septiembre del año pasado alcanzo el tercer puesto solo por debajo de java y de c. Esto habla de la mejora que tiene cada vez, y de como se han ido actualizando esto ya que en enero de 2020 dejaron de actualizar python 2, para de esta forma empezar con python 3 el cual sera la forma común de usar este tipo de lenguaje. Bueno los numeros hablan por si solos y si python sigue así no tardara en ser la plataforma numero 1. 
+Este articulo nos da los numeros de como en los ultimos años el languaje de python a alcanzado los primeros tres lugares de cualquiera de los tipos de languajes que 
+hay. Python fue creado en 1989 y en Septiembre del año pasado alcanzo el tercer puesto solo por debajo de java y de c. Esto habla de la mejora que tiene cada vez, y 
+de como se han ido actualizando esto ya que en enero de 2020 dejaron de actualizar python 2, para de esta forma empezar con python 3 el cual sera la forma común de 
+usar este tipo de lenguaje. Bueno los numeros hablan por si solos y si python sigue así no tardara en ser la plataforma numero 1. 
